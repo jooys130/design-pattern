@@ -1,5 +1,10 @@
 package TemplateMethod;
 
+/*
+    AbstractDisplay 역할에 인터페이스를 사용할 수 없다
+    : 추상클래스에서는 일부 메서드(display 메서드)를 구현할 수 있지만,
+      인터페이스는 모든 메서드가 추상 메서드로 해야한다.
+ */
 public abstract class AbstractDisplay {
     public AbstractDisplay(){
     }

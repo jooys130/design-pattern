@@ -1,7 +1,10 @@
 package Builder;
 
+import javax.swing.*;
+
 public class Main {
     public static void main(String[] args) {
+        /*
         if (args.length != 1) {
             usage();
             System.exit(0);
@@ -23,6 +26,16 @@ public class Main {
             usage();
             System.exit(0);
         }
+         */
+
+        /*
+            (7-3) ConcreteBuilder 역할을 하는 클래스 생성
+         */
+        FrameBuilder framebuilder = new FrameBuilder();
+        Director director = new Director(framebuilder);
+        director.construct();
+        JFrame frame = framebuilder.getResult();
+        frame.setVisible(true);
     }
 
     public static void usage() {

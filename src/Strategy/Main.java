@@ -13,7 +13,8 @@ public class Main {
 
         int seed1 = Integer.parseInt(args[0]);
         int seed2 = Integer.parseInt(args[1]);
-        Player player1 = new Player("두리", new WinningStrategy(seed1));
+        // Player player1 = new Player("두리", new WinningStrategy(seed1));
+        Player player1 = new Player("셋", new RandomStrategy(seed1));
         Player player2 = new Player("하나", new ProbStrategy(seed2));
 
         for(int i = 0; i < 10; ++i) {

@@ -32,6 +32,7 @@ public class Hand {
 
     private int fight(Hand h) { // 무승부는 0, this의 승이면 1, h의 승이면 -1
         if (this == h) {
+            // : this.handvalue == h.handvalue
             return 0;
         } else {
             /*

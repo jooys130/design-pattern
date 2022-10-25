@@ -1,7 +1,7 @@
 package Iterator;
 
 public class BookShelfIterator implements Iterator {
-    private BookShelf bookShelf;
+    private BookShelf bookShelf; // Aggregation
     private int index;
     public BookShelfIterator(BookShelf bookShelf) {
         this.bookShelf = bookShelf;

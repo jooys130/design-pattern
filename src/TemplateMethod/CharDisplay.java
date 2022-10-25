@@ -3,8 +3,8 @@ package TemplateMethod;
 public class CharDisplay extends AbstractDisplay {
     private char ch;
 
-    public CharDisplay(char var1) {
-        this.ch = var1;
+    public CharDisplay(char ch) {
+        this.ch = ch;
     }
 
     // 오버라이드 open, print, close

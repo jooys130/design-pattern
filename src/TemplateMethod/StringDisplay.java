@@ -4,9 +4,9 @@ public class StringDisplay extends AbstractDisplay{
     private String string;
     private int width;
 
-    public StringDisplay(String var1) {
-        this.string = var1;
-        this.width = var1.getBytes().length;
+    public StringDisplay(String string) {
+        this.string = string;
+        this.width = string.getBytes().length;
     }
 
     // 오버라이드 open, print, close

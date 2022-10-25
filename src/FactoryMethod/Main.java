@@ -7,7 +7,7 @@ public class Main {
     public Main() {
     }
 
-    public static void main(String[] var0) {
+    public static void main(String[] args) {
         IDCardFactory factory = new IDCardFactory();
         Product card1 = factory.create("홍길동");
         Product card2 = factory.create("이순신");

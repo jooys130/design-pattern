@@ -1,7 +1,4 @@
-package Adaptor.Ex2Instance;
-
-import Adaptor.Ex2Instance.Print;
-import Adaptor.Ex2Instance.PrintBanner;
+package Adapter.Ex2Instance;
 
 public class Main {
     public static void main(String[] args) {

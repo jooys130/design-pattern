@@ -1,4 +1,4 @@
-package Adaptor.Ex2Instance;
+package Adapter.Ex2Instance;
 
 public abstract class Print {
     public abstract void printWeak();

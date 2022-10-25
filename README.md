@@ -3,7 +3,7 @@
 
 1. [Iterator](https://github.com/jooys130/design-pattern/tree/master/src/Iterator)
 
-2. [Adaptor](https://github.com/jooys130/design-pattern/tree/master/src/Adaptor)
+2. [Adapter](https://github.com/jooys130/design-pattern/tree/master/src/Adaptor)
 
 3. [Template Method](https://github.com/jooys130/design-pattern/tree/master/src/TemplateMethod)
 

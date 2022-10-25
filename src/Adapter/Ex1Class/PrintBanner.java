@@ -1,7 +1,4 @@
-package Adaptor.Ex1Class;
-
-import Adaptor.Ex1Class.Banner;
-import Adaptor.Ex1Class.Print;
+package Adapter.Ex1Class;
 
 public class PrintBanner extends Banner implements Print {
     public PrintBanner(String string) {

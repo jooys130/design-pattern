@@ -1,4 +1,4 @@
-package Adaptor.Practice2;
+package Adapter.Practice2;
 
 import java.io.*;
 

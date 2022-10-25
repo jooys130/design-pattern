@@ -1,4 +1,4 @@
-package Adaptor.Ex1Class;
+package Adapter.Ex1Class;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Adaptor.Ex1Class;
+package Adapter.Ex2Instance;
 
 public class Banner {
     private String string;

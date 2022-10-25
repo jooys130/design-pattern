@@ -1,6 +1,4 @@
-package Adaptor.Ex2Instance;
-
-import Adaptor.Ex2Instance.Banner;
+package Adapter.Ex2Instance;
 
 public class PrintBanner extends Print{
     private Banner banner;

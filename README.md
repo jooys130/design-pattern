@@ -12,3 +12,11 @@
 5. [Singleton](https://github.com/jooys130/design-pattern/tree/master/src/Singleton)
 
 6. [Prototype](https://github.com/jooys130/design-pattern/tree/master/src/Prototype)
+
+7. [Builder](https://github.com/jooys130/design-pattern/tree/master/src/Builder)
+
+8. [Abstract Factory](https://github.com/jooys130/design-pattern/tree/master/src/AbstractFactory)
+
+9. [Strategy](https://github.com/jooys130/design-pattern/tree/master/src/Strategy)
+
+10. [Decorator](https://github.com/jooys130/design-pattern/tree/master/src/Decorator)

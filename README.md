@@ -1,5 +1,5 @@
 # design-pattern
-#### Java 언어로 배우는 디자인 패턴 입문 (GoF 디자인 패턴)
+#### GoF 디자인 패턴
 
 1. [Iterator](https://github.com/jooys130/design-pattern/tree/master/src/Iterator)
 
